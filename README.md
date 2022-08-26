@@ -1,6 +1,6 @@
 # bspwm-dots2
 My new bspwm dotfiles.
-Wallpapers from [https://github.com/AbdelrhmanNile/onedark-wallpapers](https://github.com/AbdelrhmanNile/onedark-wallpapers)
+Wallpapers from [https://github.com/UnnatShaneshwar/OneDarkWallpapers](https://github.com/UnnatShaneshwar/OneDarkWallpapers)
 
 ```
                    -`                    adamtherookie@archbox 
